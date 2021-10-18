@@ -6,7 +6,7 @@ Criando um servidor, subindo e devolvendo uma mensagem em JSON com informações
 
 - npm init -y ou npm init
 
-Package.json: são as configurações do aplicativo
+Package.json: arquivo de configurações do aplicativo
 
 ## NodeJS
 
