@@ -2,6 +2,8 @@
 
 Criando um servidor, subindo e devolvendo uma mensagem em JSON com informações de uso da memória RAM.
 
+Criando package.json: npm init -y ou npm init
+
 ## NodeJS
 
 É um ambiente de execução do JavaScript em server-side.
@@ -12,9 +14,7 @@ Trabalha com single-thread.
 
 As requisições são assíncronas, agilizando assim a entrega.
 
-Criando package.json: npm init -y ou npm init
-
   
-## Link 
+## Para Aprender Mais
 
 https://nodejs.org/dist/latest-v14.x/docs/api/
