@@ -1,4 +1,8 @@
-# NodeJs
+# Projeto desenvolvido com Node.js
+
+Criando um servidor, subindo e devolvendo uma mensagem em JSON com informações de uso da memória RAM.
+
+## NodeJS
 
 É um ambiente de execução do JavaScript em server-side.
 
@@ -8,13 +12,8 @@ Trabalha com single-thread.
 
 As requisições são assíncronas, agilizando assim a entrega.
 
-## Projeto desenvolvido com Node.js
+Criando package.json: npm init -y ou npm init
 
-Criando um servidor, subindo e devolvendo uma mensagem em JSON com informações
-de uso da memória RAM.
-
-Criando package.json
- - npm init -y ou npm init
   
 ## Link 
 
