@@ -2,7 +2,11 @@
 
 Criando um servidor, subindo e devolvendo uma mensagem em JSON com informações de uso da memória RAM.
 
-Criando package.json: npm init -y ou npm init
+## Criando package.json
+
+npm init -y ou npm init
+
+Package.json: são as configuarações do aplicativo
 
 ## NodeJS
 
