@@ -4,7 +4,7 @@ Criando um servidor, subindo e devolvendo uma mensagem em JSON com informações
 
 ## Criando package.json
 
-npm init -y ou npm init
+- npm init -y ou npm init
 
 Package.json: são as configuarações do aplicativo
 
