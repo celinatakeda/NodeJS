@@ -18,15 +18,17 @@ Trabalha com single-thread.
 
 As requisições são assíncronas, agilizando assim a entrega.
 
+## Print 
+<p>
+  <img src=".github/nodeJS.png">
+</p>
+
   
 ## Para Aprender Mais
 
 https://nodejs.org/dist/latest-v14.x/docs/api/
 
-## Print 
-<p>
-  <img src=".github/nodeJS.png">
-</p>
+
 
 
 
