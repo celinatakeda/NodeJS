@@ -24,6 +24,9 @@ As requisições são assíncronas, agilizando assim a entrega.
 https://nodejs.org/dist/latest-v14.x/docs/api/
 
 ## Print 
+<p>
+  <img src=".github/nodeJS.png">
+</p>
 
-![image](https://user-images.githubusercontent.com/82118386/137770921-5e0671fd-5b93-4857-8df3-b9a91d18718f.png)
+
 
