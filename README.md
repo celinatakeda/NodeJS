@@ -3,8 +3,9 @@
 Criando um servidor, subindo e devolvendo uma mensagem em JSON com informações de uso da memória RAM.
 
 ## Criando package.json
-
-- npm init -y ou npm init
+```
+  npm init -y ou npm init
+```
 
 Package.json: arquivo de configurações do aplicativo
 
@@ -25,7 +26,6 @@ As requisições são assíncronas, agilizando assim a entrega.
 
   
 ## Para Aprender Mais
-
 https://nodejs.org/dist/latest-v14.x/docs/api/
 
 
